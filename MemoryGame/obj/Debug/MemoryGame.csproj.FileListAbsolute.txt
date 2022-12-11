@@ -1,0 +1,12 @@
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\bin\Debug\MemoryGame.exe
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\bin\Debug\B20_Ex02.dll
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\bin\Debug\B20_Ex02.pdb
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.FormGameSetting.resources
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.exe
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\MemoryGame\obj\Debug\MemoryGame.pdb

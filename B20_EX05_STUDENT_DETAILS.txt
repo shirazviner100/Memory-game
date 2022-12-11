@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 316305259 - Hadar Israeli
+Second Student Details: 206093189 - Shiraz Viner
+Delivery Date.........: 10- July - 2020
+Delivered In Delay....: YES
+Delay Reason..........: בגלל אי הבנה בצירוף פרוייקט 2
+Visual Studio Version.: 2017
+Comments..............: -------
+=======================End Exercise Checking Report=========================

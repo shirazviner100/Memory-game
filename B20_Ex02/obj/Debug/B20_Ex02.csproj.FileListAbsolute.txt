@@ -1,0 +1,6 @@
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\bin\Debug\B20_Ex02.dll
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\bin\Debug\B20_Ex02.pdb
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\obj\Debug\B20_Ex02.dll
+C:\C#\פרוייקטים\B20 Ex05 HadarIsraeli 316305259 ShirazViner 206093189\B20_Ex02\obj\Debug\B20_Ex02.pdb
